@@ -10889,7 +10889,8 @@ item.set_rotation(45)</p>
   Downloading surprise-0.1-py2.py3-none-any.whl.metadata (327 bytes)
 Collecting scikit-surprise (from surprise)
   Downloading scikit_surprise-1.1.4.tar.gz (154 kB)
-     <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/154.4 kB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span>     <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">154.4/154.4 kB</span> <span class="ansi-red-fg">4.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+     <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/154.4 kB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span>
+     <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">154.4/154.4 kB</span> <span class="ansi-red-fg">4.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
   Installing build dependencies ... done
   Getting requirements to build wheel ... done
   Preparing metadata (pyproject.toml) ... done
